@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoHighLevelMultiplayer", "MonoHighLevelMultiplayer.csproj", "{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{EB58D0B6-0CCA-4C06-9E94-DDA2517C671A}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
